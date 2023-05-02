@@ -1,9 +1,11 @@
-package ua.vladmoyseienko.notevault;
+package ua.vladmoyseienko.notevault.StartingActivities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+
+import ua.vladmoyseienko.notevault.R;
 
 public class StartingActivity extends AppCompatActivity {
 

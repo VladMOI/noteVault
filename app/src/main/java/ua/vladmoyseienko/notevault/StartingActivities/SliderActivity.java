@@ -1,13 +1,11 @@
-package ua.vladmoyseienko.notevault;
+package ua.vladmoyseienko.notevault.StartingActivities;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.content.ContextCompat;
 import androidx.viewpager.widget.ViewPager;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Resources;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -17,6 +15,9 @@ import android.view.WindowManager;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
+import ua.vladmoyseienko.notevault.MainActivity.MainActivity;
+import ua.vladmoyseienko.notevault.R;
 
 public class SliderActivity extends AppCompatActivity implements ViewPager.OnPageChangeListener, View.OnClickListener {
     private static final String PREFS_NAME = "SliderPrefs";//Название состояния(была открыта или нет)
@@ -41,22 +42,24 @@ public class SliderActivity extends AppCompatActivity implements ViewPager.OnPag
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-//        SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
-//        boolean isFirstRun = settings.getBoolean(IS_FIRST_RUN, true);
-//        if(isFirstRun){
-//            SharedPreferences.Editor editor = settings.edit();
-//            editor.putBoolean(IS_FIRST_RUN, false);
-//            editor.apply();
+        super.onCreate(savedInstanceState);
+        SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
+        boolean isFirstRun = settings.getBoolean(IS_FIRST_RUN, true);
+        if(isFirstRun){
+            SharedPreferences.Editor editor = settings.edit();
+            editor.putBoolean(IS_FIRST_RUN, false);
+            editor.apply();
             // To make activity full screen.
             requestWindowFeature(Window.FEATURE_NO_TITLE);
             getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                     WindowManager.LayoutParams.FLAG_FULLSCREEN);
-            super.onCreate(savedInstanceState);
+
             setReference();
-//        } else
-//        {
-//            startActivity(new Intent(this, MainActivity.class));
-//        }
+        } else
+        {
+            startActivity(new Intent(this, MainActivity.class));
+        }
+
     }
     public void setReference() {
         view = LayoutInflater.from(this).inflate(R.layout.activity_slider, null);

@@ -1,4 +1,4 @@
-package ua.vladmoyseienko.notevault;
+package ua.vladmoyseienko.notevault.StartingActivities;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,6 +9,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.viewpager.widget.PagerAdapter;
+
+import ua.vladmoyseienko.notevault.R;
 
 public class SliderAdapter extends PagerAdapter {
     private Context mContext;
