@@ -35,6 +35,7 @@ public class SelectLocalNotes {
                 notes.add(map);//add map to array
             }
             rs.close();
+            System.out.println("Notes select: " + notes);
             return notes;
         }catch (SQLException ex){
             System.out.println(ex.getMessage());

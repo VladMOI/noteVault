@@ -54,7 +54,7 @@ public class NotesAdapter extends BaseAdapter {
             currentNote = (HashMap<String, String>) notes.get(i);
             String label = currentNote.get("label");
             Uri contentUri = Uri.parse(currentNote.get("content"));
-
+            System.out.println("Label: " + label + " uri: " + contentUri);
             TextView tvLabel = view.findViewById(R.id.gridview_label);
             tvLabel.setText(label);
             ImageView ivContent = view.findViewById(R.id.gridview_content);

@@ -1,14 +1,12 @@
 package ua.vladmoyseienko.notevault.MainActivity.Fragments;
 
 import android.app.AlertDialog;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
-import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -23,12 +21,9 @@ import androidx.fragment.app.Fragment;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.concurrent.ExecutionException;
 
-import ua.vladmoyseienko.notevault.APIFunctions.Notes.SelectNotes;
 import ua.vladmoyseienko.notevault.LocalDB.Notes.SelectLocalNotes;
 import ua.vladmoyseienko.notevault.R;
 
@@ -36,8 +31,9 @@ public class NotesFragment extends Fragment {
     private final String TAG = "NotesFragment";
     private View rootview = null;
     private GridView gridview;
-    private ArrayList notes;
+    private ArrayList<HashMap<String, String>> notes = new ArrayList();
     private NotesAdapter adapter;
+    AlertDialog dialog = null;
     public NotesFragment(){
     }
 
@@ -46,7 +42,6 @@ public class NotesFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         SelectLocalNotes selectLocalNotes = new SelectLocalNotes();
         ArrayList resultSelect = selectLocalNotes.selectAllNotes();
-        notes = resultSelect;
         rootview = inflater.inflate(R.layout.fragment_notes, container,false);
         adapter = new NotesAdapter(getActivity(), notes);
         gridview =  rootview.findViewById(R.id.gridview);
@@ -70,7 +65,7 @@ public class NotesFragment extends Fragment {
                         LayoutInflater inflater = getLayoutInflater();
                         View dialogLayout = inflater.inflate(R.layout.alertdialog_add_note, null);
                         builder.setView(dialogLayout);
-                        AlertDialog dialog = builder.create();
+                        dialog = builder.create();
                         dialog.show();
                         dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
                         ImageView ivGallery = dialog.getWindow().findViewById(R.id.iv_galery);
@@ -112,15 +107,17 @@ public class NotesFragment extends Fragment {
         map.put("content", imageUri.toString());
         map.put("label", sampleLabel);
         notes.add(map);
-        Log.d(TAG, "URI, STRING = " + imageUri.toString() + sampleLabel);
-        // Далее можно обработать полученный URI
-        // Например, вывести его в ImageView
-        updateUi();
-    }
 
-    public void updateUi(){
         adapter.clear();
+        Log.d(TAG, "UpdateUI notes = " + notes);
         adapter.update(notes);
+        gridview.setAdapter(adapter);
+        Log.d(TAG, "URI, STRING = " + imageUri.toString() + sampleLabel);
+        if(dialog != null){
+            dialog.dismiss();
+        }
+        Log.d(TAG, "Notes: " + notes);
+
     }
 
     public boolean isLocalNotesExists(){
