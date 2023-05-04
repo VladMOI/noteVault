@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoteVault</string>
+    <string name="slider_1">Вітаємо у NotesVault!\nЦе додаток у якому ви можете зручно зберігати ваші ноти, таби.</string>
+    <string name="slider_2">Щоб розпочати, догортайте до кінця та натисніть "+"</string>
+    <string name="slider_3">Також, у меню перегляду нот, ви маєте змогу налашлувати скролінг, його швидкість</string>
+    <string name="slider_4">Бажаємо приємного використання та гарного звуку.\n Дякуємо за завантаження!</string>
+    <string name="slider_5"></string>
+    <string name="notes">Notes</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+</resources>
