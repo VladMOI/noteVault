@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/layout_fragment_settings.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_extralight.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_extralight.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_regular.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/layout_fragment_notes.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_thin.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_thin.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/layout_activity_slider.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/layout/activity_slider.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_nonselecteditem_dot.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/nonselecteditem_dot.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_settings.png.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/settings.png"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/layout_slider_item.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/layout/slider_item.xml"
+    },
+    {
+        "merged": "ua.vladmoyseienko.notevault.app-merged_res-29:/layout_fragment_notes.xml.flat",
+        "source": "ua.vladmoyseienko.notevault.app-main-31:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_medium.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_light.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_light.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/menu_navigation_menu.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/menu/navigation_menu.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/layout_fragment_profile.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_bold.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_bold.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_profile.png.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/profile.png"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/layout_activity_starting.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/layout/activity_starting.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/layout_gridview_notes_item.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/layout/gridview_notes_item.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_background_rounded_primary.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/background_rounded_primary.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ua.vladmoyseienko.notevault.app-merged_res-29:/layout_gridview_notes_item.xml.flat",
+        "source": "ua.vladmoyseienko.notevault.app-main-31:/layout/gridview_notes_item.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_background_rounded_light2.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/background_rounded_light2.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_music.png.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/music.png"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_black.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_black.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_semibold.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/font_inter_extrabold.ttf.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/font/inter_extrabold.ttf"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_selecteditem_dot.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/selecteditem_dot.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_background_rounded_light.xml.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/background_rounded_light.xml"
+    },
+    {
+        "merged": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-merged_res-29:/drawable_applogo.png.flat",
+        "source": "/home/vladmoys/.gradle/daemon/7.5/ua.vladmoyseienko.notevault.app-main-31:/drawable/applogo.png"
+    }
+]

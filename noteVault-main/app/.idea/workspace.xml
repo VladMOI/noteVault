@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae51b67d-3cfa-491b-a382-b828101a534c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/ua/vladmoyseienko/notevault/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/APIFunctions/Notes/SelectNotes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/LocalDB/MainDB/MainDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/LocalDB/Notes/AlterNotes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/LocalDB/Notes/InsertLocalNotes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/LocalDB/Notes/SelectLocalNotes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/LocalDB/User/AlterUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/LocalDB/User/InsertUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/LocalDB/User/SelectUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/MainActivity/Fragments/NotesAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/MainActivity/Fragments/NotesFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/MainActivity/Fragments/ProfileFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/MainActivity/Fragments/SettingsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/MainActivity/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/StartingActivities/SliderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/StartingActivities/SliderAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vladmoyseienko/notevault/StartingActivities/StartingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-v24/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-v24/galery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/add_circle/si_Add_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/applogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/background_all_rounded_light2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/background_rounded_light.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/background_rounded_light2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/background_rounded_primary.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/nonselecteditem_dot.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecteditem_dot.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/si_add_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_extrabold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_extralight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/font/inter_thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_slider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_starting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/alertdialog_add_note.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_notes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_notes_empty.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/gridview_notes_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/slider_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/menu/navigation_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/refs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ua/vladmoyseienko/notevault/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PJdUrIRGt8v9Sa5UTCdcS5ht09" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/vladmoys/AndroidProjects/noteVault-main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae51b67d-3cfa-491b-a382-b828101a534c" name="Changes" comment="" />
+      <created>1683179136540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683179136540</updated>
+    </task>
+    <servers />
+  </component>
+</project>

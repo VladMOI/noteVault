@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimartLight2">#F1E1C9</color>
+    <color name="colorPrimary">#CC9972</color>
+    <color name="colorPrimaryBackground">#5A2C14</color>
+    <color name="colorPrimaryDark">#CB6347</color>
+    <color name="colorPrimaryLight">#FAF8F0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">NoteVault</string>
+    <string name="notes">Notes</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="slider_1">Вітаємо у NotesVault!\nЦе додаток у якому ви можете зручно зберігати ваші ноти, таби.</string>
+    <string name="slider_2">Щоб розпочати, догортайте до кінця та натисніть "+"</string>
+    <string name="slider_3">Також, у меню перегляду нот, ви маєте змогу налашлувати скролінг, його швидкість</string>
+    <string name="slider_4">Бажаємо приємного використання та гарного звуку.\n Дякуємо за завантаження!</string>
+    <string name="slider_5"/>
+    <style name="FontInter">
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+    <style name="Theme.NoteVault" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryVariant">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/colorPrimartLight2</item>
+        <item name="colorSecondaryVariant">@color/colorPrimartLight2</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
